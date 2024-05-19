@@ -11281,5 +11281,27 @@ body.sidebar-toggled footer.sticky-footer {
 }
 
 /* mycss */
+@media (min-width: 576px) {
+  .img-size{
+    width: 20rem;
+  }
+}
 
+@media (min-width: 400px) {
+  .img-size{
+    width: 20rem;
+  }
+}
+
+@media (min-width: 300px) {
+  .img-size{
+    width: 15rem;
+  }
+}
+
+@media (min-width: 700px) {
+  .img-size{
+    width: 50rem;
+  }
+}
 /* batas */
